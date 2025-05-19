@@ -18,7 +18,7 @@ This project is a Bash script designed to interact with the GitHub API. The prim
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/ayuspoudel/Shell-Scripting-Projects.git
+    git clone https://github.com/Nayan/Shell-Scripting-Projects.git
     cd Shell-Scripting-Projects
     ```
 
@@ -43,18 +43,18 @@ Run the script with the following command:
 ./list-users.sh <repo_owner> <repo_name>
 ```
 
-Replace `<repo_owner>` with the owner of the repository (e.g., `ayuspoudel`) and `<repo_name>` with the name of the repository.
+Replace `<repo_owner>` with the owner of the repository (e.g., `Nayan`) and `<repo_name>` with the name of the repository.
 
 ### Example
 
 ```bash
-./list-users.sh ayuspoudel Shell-Scripting-Projects
+./list-users.sh Nayan Shell-Scripting-Projects
 ```
 
-This command will list all users with read access to the `Shell-Scripting-Projects` repository owned by `ayuspoudel`.
+This command will list all users with read access to the `Shell-Scripting-Projects` repository owned by `Nayan`.
 
 ## Contact
 
 For any questions or concerns, feel free to reach out:
 
-- **Email**: [ayushpoudel@usf.edu](mailto:ayushpoudel@usf.edu)
+- **Email**: nayands6895@gmail.com
